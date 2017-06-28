@@ -1,0 +1,11 @@
+{
+  "name": "chat",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "4.13.4",
+    "jquery": "^3.2.1",
+    "socket.io": "1.4.6"
+  }
+}
